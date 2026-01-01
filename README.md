@@ -33,3 +33,8 @@ Litogen Lite uses a client-side pipeline:
 No server, no API, no tracking.
 
 ---
+
+🙌 Author
+
+Created by Erol Can Ulutaş
+If you enjoy the project or have ideas for improvements, feel free to open an issue or a pull request.
