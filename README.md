@@ -1,7 +1,7 @@
 # Litogen Lite
 
 **Litogen Lite** is a lightweight, fully browser-based lithophane STL generator.  
-It allows you to generate **triangle** and **circle** lithophanes directly in your browser — no backend, no uploads, no installation.
+It allows you to generate **triangle**, **circle** and **hexagon** lithophanes directly in your browser — no backend, no uploads, no installation.
 
 👉 **Try Now:**  
 https://erolcanulutas.github.io/Litogen-Lite/
@@ -11,7 +11,8 @@ https://erolcanulutas.github.io/Litogen-Lite/
 ## ✨ Features
 
 - 🔺 Equilateral **triangle** lithophane generation  
-- ⚪ Perfect **1:1 circle** lithophane generation  
+- ⚪ **Circle** lithophane generation
+-  ⬢ **Hexagon** lithophane generation
 - 🖼️ Image import and in-browser editing  
 - 📐 Precise size and thickness control (mm-based)  
 - 🧵 STL generation ready for 3D printing  
@@ -37,4 +38,3 @@ No server, no API, no tracking.
 🙌 Author
 
 Created by Erol Can Ulutaş
-If you enjoy the project or have ideas for improvements, feel free to open an issue or a pull request.
