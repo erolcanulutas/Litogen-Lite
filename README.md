@@ -13,6 +13,7 @@ https://erolcanulutas.github.io/Litogen-Lite/
 - 🔺 Equilateral **triangle** lithophane generation  
 - ⚪ **Circle** lithophane generation
 -  ⬢ **Hexagon** lithophane generation
+-  ⬠ **Pentagon** lithophane generation
 - 🖼️ Image import and in-browser editing  
 - 📐 Precise size and thickness control (mm-based)  
 - 🧵 STL generation ready for 3D printing  
